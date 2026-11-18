@@ -32,9 +32,9 @@ en sprints agiles, sur des projets d’État open source comme dans des start-up
 - 🤝 **Digne de confiance** : je livre ce que je facture, et souvent plus. Près de quatre ans en full remote,
   et des clients tous satisfaits.
 
-| 7 ans | +1 M | +100 000 | +2 000 |
-| :---: | :---: | :---: | :---: |
-| d’expérience full stack | téléchargements d’apps mobiles | paiements gérés sur mes projets | commits sur les projets présentés |
+| **7 ans**<br>d’expérience full stack | **+1 M**<br>téléchargements d’apps mobiles |
+| :---: | :---: |
+| **+100 000**<br>paiements gérés sur mes projets | **+2 000**<br>commits sur les projets présentés |
 
 ## 🛠️ Ma stack
 
