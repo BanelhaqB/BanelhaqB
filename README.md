@@ -10,7 +10,7 @@ Ingénieur, 7 ans d’expérience. Je conçois, je code et je mets en production
 utilisées par des centaines de milliers de personnes.
 
 [![Site](https://img.shields.io/badge/bilel.banelhaq.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bilel.banelhaq.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xNiA4YTYgNiAwIDAgMSA2IDZ2N2gtNHYtN2EyIDIgMCAwIDAtMi0yIDIgMiAwIDAgMC0yIDJ2N2gtNHYtN2E2IDYgMCAwIDEgNi02eiIvPjxyZWN0IHdpZHRoPSI0IiBoZWlnaHQ9IjEyIiB4PSIyIiB5PSI5Ii8%2BPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/bilel-banelhaq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xNiA4YTYgNiAwIDAgMSA2IDZ2N2gtNHYtN2EyIDIgMCAwIDAtMi0yIDIgMiAwIDAgMC0yIDJ2N2gtNHYtN2E2IDYgMCAwIDEgNi02eiIvPjxyZWN0IHdpZHRoPSI0IiBoZWlnaHQ9IjEyIiB4PSIyIiB5PSI5Ii8%2BPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/bilel-banelhaq-106252178)
 [![E-mail](https://img.shields.io/badge/Me_contacter-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilel.banelhaq@gmail.com)
 
 📍 Île-de-France · remote ou hybride · 🟢 disponible pour une mission freelance à partir du **11 janvier 2027**
@@ -84,5 +84,5 @@ en sprints agiles, sur des projets d’État open source comme dans des start-up
 ## 📫 Travaillons ensemble
 
 Une mission, un poste, une équipe à renforcer ? Écrivez-moi depuis
-**[bilel.banelhaq.com](https://bilel.banelhaq.com)**, sur [LinkedIn](https://www.linkedin.com/in/bilel-banelhaq)
+**[bilel.banelhaq.com](https://bilel.banelhaq.com)**, sur [LinkedIn](https://www.linkedin.com/in/bilel-banelhaq-106252178)
 ou à [bilel.banelhaq@gmail.com](mailto:bilel.banelhaq@gmail.com) : je vous réponds rapidement.
