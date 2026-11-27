@@ -69,6 +69,7 @@ en sprints agiles, sur des projets d’État open source comme dans des start-up
 | ⚔️ [**Chains of the Eternals**](https://www.chainsoftheeternals.com/) | MMORPG temps réel on-chain : serveur de jeu Java 21, API Node.js reliée à la blockchain, équipe répartie dans 7 pays. |
 | 🚗 [**DOM Carpooling**](https://apps.apple.com/fr/app/dom-carpooling/id6749898933) | App de covoiturage React Native livrée pour un lancement en Colombie. |
 | 💈 [**Koupia**](https://koupia.com) | SaaS de suivi pour salons de coiffure, conçu et publié seul : Angular, Cloudflare Workers, apps iOS / Android et montres. |
+| 🥩 [**Bouko**](https://bouko.app) | La déclinaison de Koupia pour les boucheries : caisse au kilo ou à la pièce, marge à partir des prix d’achat, statistiques du métier ; Angular, Cloudflare Workers, apps iOS / Android, widgets, Apple Watch et Wear OS. |
 | ✨ [**Luciole**](https://luciole.banelhaq.com) | Suivi de trajets qui s’illuminent sur la carte : iOS et watchOS en Swift, Android et Wear OS en Kotlin, API Cloudflare. Sur l’[App Store](https://apps.apple.com/app/id6836077920). |
 | 🩺 [**Tbibi**](https://tbibi.app) | MVP de prise de rendez-vous médicaux et de gestion de cabinet pour le Maroc, en démo : sites React + TypeScript, apps iOS / Android en React Native + Expo, API Cloudflare Workers ; ordonnances, téléconsultation, en français, arabe et anglais. |
 | 🐝 **Essaim** | Ma console pour faire travailler une équipe d’agents de développement IA, jour et nuit, de l’issue à la pull request. |
