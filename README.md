@@ -69,7 +69,7 @@ en sprints agiles, sur des projets d’État open source comme dans des start-up
 | ⚔️ [**Chains of the Eternals**](https://www.chainsoftheeternals.com/) | MMORPG temps réel on-chain : serveur de jeu Java 21, API Node.js reliée à la blockchain, équipe répartie dans 7 pays. |
 | 🚗 [**DOM Carpooling**](https://apps.apple.com/fr/app/dom-carpooling/id6749898933) | App de covoiturage React Native livrée pour un lancement en Colombie. |
 | 💈 [**Koupia**](https://koupia.com) | SaaS de suivi pour salons de coiffure, conçu et publié seul : Angular, Cloudflare Workers, apps iOS / Android et montres. |
-| ✨ [**Luciole**](https://luciole.banelhaq.com) | Suivi de trajets qui s’illuminent sur la carte : iOS et watchOS en Swift, Android et Wear OS en Kotlin, API Cloudflare. |
+| ✨ [**Luciole**](https://luciole.banelhaq.com) | Suivi de trajets qui s’illuminent sur la carte : iOS et watchOS en Swift, Android et Wear OS en Kotlin, API Cloudflare. Sur l’[App Store](https://apps.apple.com/app/id6836077920). |
 | 🐝 **Essaim** | Ma console pour faire travailler une équipe d’agents de développement IA, jour et nuit, de l’issue à la pull request. |
 | 🃏 [**Poker Sizing**](https://github.com/BanelhaqB/planning-poker) | Planning poker temps réel, gratuit et sans compte, sur Cloudflare Durable Objects. |
 
