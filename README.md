@@ -70,6 +70,7 @@ en sprints agiles, sur des projets d’État open source comme dans des start-up
 | 🚗 [**DOM Carpooling**](https://apps.apple.com/fr/app/dom-carpooling/id6749898933) | App de covoiturage React Native livrée pour un lancement en Colombie. |
 | 💈 [**Koupia**](https://koupia.com) | SaaS de suivi pour salons de coiffure, conçu et publié seul : Angular, Cloudflare Workers, apps iOS / Android et montres. |
 | ✨ [**Luciole**](https://luciole.banelhaq.com) | Suivi de trajets qui s’illuminent sur la carte : iOS et watchOS en Swift, Android et Wear OS en Kotlin, API Cloudflare. Sur l’[App Store](https://apps.apple.com/app/id6836077920). |
+| 🩺 [**Tbibi**](https://tbibi.app) | MVP de prise de rendez-vous médicaux et de gestion de cabinet pour le Maroc, en démo : sites React + TypeScript, apps iOS / Android en React Native + Expo, API Cloudflare Workers ; ordonnances, téléconsultation, en français, arabe et anglais. |
 | 🐝 **Essaim** | Ma console pour faire travailler une équipe d’agents de développement IA, jour et nuit, de l’issue à la pull request. |
 | 🃏 [**Poker Sizing**](https://github.com/BanelhaqB/planning-poker) | Planning poker temps réel, gratuit et sans compte, sur Cloudflare Durable Objects. |
 
