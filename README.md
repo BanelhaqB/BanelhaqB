@@ -72,6 +72,7 @@ en sprints agiles, sur des projets d’État open source comme dans des start-up
 | 🥩 [**Bouko**](https://bouko.app) | La déclinaison de Koupia pour les boucheries : caisse au kilo ou à la pièce, marge à partir des prix d’achat, statistiques du métier ; Angular, Cloudflare Workers, apps iOS / Android, widgets, Apple Watch et Wear OS. |
 | ✨ [**Luciole**](https://luciole.banelhaq.com) | Suivi de trajets qui s’illuminent sur la carte : iOS et watchOS en Swift, Android et Wear OS en Kotlin, API Cloudflare. Sur l’[App Store](https://apps.apple.com/app/id6836077920). |
 | 🩺 [**Tbibi**](https://tbibi.app) | MVP de prise de rendez-vous médicaux et de gestion de cabinet pour le Maroc, en démo : sites React + TypeScript, apps iOS / Android en React Native + Expo, API Cloudflare Workers ; ordonnances, téléconsultation, en français, arabe et anglais. |
+| 🍳 [**Replate**](https://replat.banelhaq.com) | SaaS qui transforme une chaîne YouTube de cuisine en site et en app de recettes : l’IA lit chaque vidéo et en tire une fiche complète ; Next.js sur Cloudflare Workers, D1, Workflows, multi-tenant, SEO et GEO, Stripe, app Expo en marque blanche. Pilote : [Food is Love](https://food-is-love.banelhaq.com). |
 | 🐝 **Essaim** | Ma console pour faire travailler une équipe d’agents de développement IA, jour et nuit, de l’issue à la pull request. |
 | 🃏 [**Poker Sizing**](https://github.com/BanelhaqB/planning-poker) | Planning poker temps réel, gratuit et sans compte, sur Cloudflare Durable Objects. |
 
